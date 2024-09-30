@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mohammad Hossein Gerami, Software Engineer at World.
+I'm Mohammad Hossein Gerami, Software Engineer.
 
 I mostly code in Python and Java.
 
